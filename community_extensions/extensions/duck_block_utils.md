@@ -208,8 +208,8 @@ docs:
 
 extension_star_count: 2
 extension_star_count_pretty: 2
-extension_download_count: 1034
-extension_download_count_pretty: 1.0k
+extension_download_count: 1294
+extension_download_count_pretty: 1.3k
 image: '/images/community_extensions/social_preview/preview_community_extension_duck_block_utils.png'
 layout: community_extension_doc
 ---
